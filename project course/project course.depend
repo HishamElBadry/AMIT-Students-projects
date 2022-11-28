@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1662589834 source:c:\users\toka\documents\c++\project course\main.c
+	<stdio.h>
+	<stdlib.h>
+	"project.h"
+
+1662489905 c:\users\toka\documents\c++\project course\project course.h
+	<stdio.h>
+	<stdlib.h>
+
+1662589834 c:\users\toka\documents\c++\project course\project.h
+	<stdio.h>
+	<stdlib.h>
+	"projectt.c"
+
+1662589949 c:\users\toka\documents\c++\project course\projectt.c
+	"project.h"
+
+1662589836 source:d:\project course\main.c
+	<stdio.h>
+	<stdlib.h>
+	"project.h"
+
+1662589836 d:\project course\project.h
+	<stdio.h>
+	<stdlib.h>
+	"projectt.c"
+
+1662590666 d:\project course\projectt.c
+	"project.h"
+
